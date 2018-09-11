@@ -24,3 +24,5 @@ yarn-error.log*
 
 # other
 package-lock.json
+yarn.lock
+.sass-cache/
